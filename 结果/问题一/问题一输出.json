@@ -1,0 +1,44 @@
+{
+  "Q_ref": 0.3332785896981312,
+  "Q_fallback": 0.31279596264575765,
+  "ridge_alpha": 0.01,
+  "ridge_intercept": 4.5589169228888835,
+  "conflict_gap": 0.3,
+  "n_sample": 51230,
+  "n_arxiv": 17523,
+  "n_github": 203752,
+  "conflict_rate": {
+    "extended_arxiv": 0.07550077041602465,
+    "extended_github": 0.11984176842435902,
+    "sample": 0.07630294749170408
+  },
+  "spearman_Q_vs_coef": -0.48571428571428577,
+  "domain_Q": {
+    "book": 0.5176222331694962,
+    "arxiv": 0.4484757736915938,
+    "c4": 0.3098062619008691,
+    "commoncrawl": 0.2841333794246972,
+    "stackexchange": 0.2371153984310999,
+    "wikipedia": 0.20473584149367227,
+    "github": 0.18415007687434942
+  },
+  "optimal_p": {
+    "dm_mathematics": 0.3000000000000004,
+    "hackernews": 0.3000000000000004,
+    "ubuntu_irc": 0.3000000000000004,
+    "gutenberg_pg_19": 0.0999999999999986,
+    "arxiv": 2.0196016241753137e-16,
+    "wikipedia_en": 0.0,
+    "freelaw": 0.0,
+    "pubmed_central": 0.0,
+    "nih_exporter": 0.0,
+    "stackexchange": 0.0,
+    "philpapers": 0.0,
+    "github": 0.0,
+    "enron_emails": 0.0,
+    "pile_cc": 0.0,
+    "europarl": 0.0,
+    "pubmed_abstracts": 0.0,
+    "uspto_backgrounds": 0.0
+  }
+}
